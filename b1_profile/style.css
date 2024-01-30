@@ -1,17 +1,3 @@
-/* .header-text {
-    text-align: center;
-    box-sizing: border-box;
-    font-size: 3rem;
-    margin: 60px auto 0;
-} */
-
-/* .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-} */
-
 body {
     background-color: #f5f8fc;
 }
@@ -38,8 +24,10 @@ div > h1 {
 
 div > h2 {
     font-size: 1.5rem;
+    margin-bottom: 50px;
 }
 
 div > h3 {
-
+    font-size: 1.8rem;
+    font-weight: 500;
 }
