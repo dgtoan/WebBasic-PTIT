@@ -1,0 +1,29 @@
+/* .header-text {
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 3rem;
+    font-weight: 700;
+    margin: 60px auto 0;
+} */
+
+/* .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+} */
+
+body {
+    background-color: #f5f8fc;
+}
+
+div > img {
+    display: block;
+    margin: 60px auto;
+    width: 12%;
+    height: 12%;
+    border-radius: 50%;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+    padding: .5rem;
+    border-radius: 50rem;
+}
